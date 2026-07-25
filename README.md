@@ -65,7 +65,7 @@ Face_Detector_Intelligent_Home/
 
 ## Configuración antes de ejecutar
 
-Abre `mainV2.py` y revisa estos puntos:
+Abre `main.py` y revisa estos puntos:
 
 1. **Registrar rostros** — agrega una línea por cada persona:
    ```python
