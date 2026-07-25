@@ -48,7 +48,7 @@ a través de la cámara y dispara acciones personalizadas al reconocerlas
 
 ```
 Face_Detector_Intelligent_Home/
-├── mainV2.py
+├── main.py
 ├── requirements.txt
 ├── README.md
 ├── images/
@@ -86,7 +86,7 @@ Abre `main.py` y revisa estos puntos:
 Con el entorno virtual activado:
 
 ```bash
-python mainV2.py
+python main.py
 ```
 
 - Se abrirá una ventana con el video de la cámara.
